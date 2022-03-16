@@ -1,1 +1,1 @@
-# Error-Detecting-By-CRC-CCITT-16-bit
+# Error-Detecting-By-CRC-CCITT(16-bit)
